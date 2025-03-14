@@ -1,5 +1,8 @@
 # Logseq Smart Composer
 
+[English](README.md) | [中文](README.zh-CN.md)
+
+
 An intelligent writing assistant plugin for Logseq. Inspired by [obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer).
 
 ## Introduction
